@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:100,300,400,500,600,700,800,900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Big Shoulders Text', cursive;
+
+
+}
+
+.navbar ul {
+
+    display: flex;
+    font-size: 30px;
+    list-style: none;
+    margin-top: 10px;
+    justify-content: center;
+    color: white;
+    font-family: 'Big Shoulders Text', cursive;
+
+
+
+}
+
+.navbar ul li a {
+
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.navbar {
+
+    background-image: url(assest/img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    height: 800px;
+
+}
+
+.main {
+
+    color: white;
+    font-family: 'Big Shoulders Text', cursive;
+    display: flex;
+    margin-top: 250px;
+    font-size: 50px;
+    padding-left: 400px;
+
+}
+
+.booking {
+
+    margin-left: -29pc;
+    margin-top: 350px;
+
+
+
+}
+
+.booking button {
+    width: 150px;
+    height: 50px;
+    background-image: url('assest/img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border: 1px solid white;
+    font-size: 30px;
+    border-radius: 30px;
+    margin-left: 20px;
+
+}
+
+.para {
+    
+    display: flex;
+    align-items: center;
+    background-color: #f3f3f3c0;
+    padding: 50px 30px;
+    justify-content: center;
+    font-family: 'Big Shoulders Text', cursive;
+
+
+}
+p{
+
+    width: 700px;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+.varaipadam{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 800px;
+}
+
+.footer{
+
+    display: flex;
+}
+.placement{
+
+    margin-left: 50px;
+    padding-left: 80px;
+}
+
+
+
+
+
+.placement h2{
+
+    margin-left:90px;
+    margin-top: 30px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+
+    
+}
+
+.placement p{
+
+    width: 350px;
+    text-align: justify;
+    margin-left: 90px;
+    color: grey;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.name {
+
+    margin-left: 90px;
+}
+
+.number{
+
+    margin-left: 90px;
+
+}
+button{
+    margin-left: 90px;
+    width:70px ;
+    height: 30px;
+    font-size: 20px;
+    background: rgb(192, 189, 189);
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(192, 189, 189);
+    border: none;
+
+
+
+}
+
+button.hover{
+
+    background: grey;
+    cursor: pointer;
+}
+
+.name{
+
+    width: 340px;
+    font-size: larger;
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.number{
+
+    width: 340px;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+
+.timing h2{
+
+    margin-left:90px;
+    margin-top: 30px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+}
+
+.timing p{
+
+    width: 350px;
+    text-align: justify;
+    margin-left: 90px;
+    color: grey;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.contact h2{
+    margin-left:90px;
+    margin-top: 30px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+
+}
+.contact p{
+    width: 350px;
+    text-align: justify;
+    margin-left: 90px;
+    color: grey;
+    font-size: 25px;
+    margin-bottom: 10px
+}
